@@ -32,6 +32,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=15savage&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15savage&layout=compact&theme=tokyonight" alt="langs" height="150"/>
 </p>
 
