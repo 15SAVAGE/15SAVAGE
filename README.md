@@ -26,5 +26,5 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/726388519127482381?idleMessage=going&bg=1A1C1F)](https://discord.com/users/726388519127482381)
+[![Discord Presence](https://lanyard.cnrad.dev/api/726388519127482381?idle)](https://discord.com/users/726388519127482381)
 
