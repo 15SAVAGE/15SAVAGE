@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+<img src=["https://your-image-link.jpg](https://zastavki.gas-kvas.com/uploads/posts/2024-09/zastavki-gas-kvas-com-mkk8-p-zastavki-smeshnie-na-avatarku-8.jpg)" alt="banner" width="100%"/>
+[![My Discord](https://lanyard.cnrad.dev/api/726388519127482381?hideDecoration=true)](https://discord.com/users/726388519127482381)
 
-## 🎯 what i do
-- 🤖 discord / telegram bot development  
-- 🔒 automation scripts & tools  
-- 🧩 backend scripting and database integration 
