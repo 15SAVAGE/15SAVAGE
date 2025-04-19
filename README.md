@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋, i'm a developer</h1>
+<h1 align="center">👋skibidi, im 15savage</h1>
 
 ## 🧠 whoami
 - 🐍 python developer (bots, automation, scripts)
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/726388519127482381?idleMessage=going&bg=1A1C1F)](https://discord.com/users/726388519127482381)
