@@ -27,5 +27,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-[![My Discord](https://lanyard.cnrad.dev/api/726388519127482381?hideDecoration=true)](https://discord.com/users/726388519127482381)
+[![Discord Presence](https://lanyard.cnrad.dev/api/726388519127482381?idleMessage=going&bg=1A1C1F)](https://discord.com/users/726388519127482381)
 
