@@ -1,4 +1,5 @@
-<h1 align="center">👋skibidi, im 15savage</h1>
+<h1 align="center"> 15savage skibidi 🌊</h1>
+
 
 ## 🧠 whoami
 - 🐍 python developer (bots, automation, scripts)
