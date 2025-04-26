@@ -28,8 +28,10 @@
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/726388519127482381?idle)](https://discord.com/users/726388519127482381)
-## 📈 GitHub Stats
 
+## ⏳ WakaTime Stats
+[![wakatime](https://wakatime.com/badge/user/42b70b40-68a8-41d1-921d-370b2a0f69ea.svg)](https://wakatime.com/@42b70b40-68a8-41d1-921d-370b2a0f69ea)
+## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=15savage&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
 </p>
