@@ -30,7 +30,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/726388519127482381?idle)](https://discord.com/users/726388519127482381)
 
 ## ⏳ WakaTime Stats
-[![Weekly WakaTime Chart](https://wakatime.com/share/@42b70b40-68a8-41d1-921d-370b2a0f69ea/7a5e5f5d-1f3a-4a2b-8f3e-5f6d7e8f9a0b.svg)](https://wakatime.com/@42b70b40-68a8-41d1-921d-370b2a0f69ea)
+[![wakatime](https://wakatime.com/badge/user/42b70b40-68a8-41d1-921d-370b2a0f69ea.svg)](https://wakatime.com/@42b70b40-68a8-41d1-921d-370b2a0f69ea)
 ## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=15savage&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
