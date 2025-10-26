@@ -1,10 +1,10 @@
-<h1 align="center"> 15savage skibidi 🌊</h1>
+<h1 align="center"> 15savage 🌊</h1>
 
 
 ## 🧠 whoami
 - 🐍 python developer (bots, automation, scripts)
-- 🛠 using databases (SQL / MongoDB)
-- 💻 also coding with javascript, c++, html & css
+- 🛠 using databases (SQLite / MongoDB)
+- 💻 also coding with C#, c++, java
 - 🌱 always learning something new
 
 ## 🧰 tech stack
